@@ -1,5 +1,5 @@
 # ESCUELA POLITECNICA NACIONAL
-## Integrantes: 👦 👦
+## Integrantes: 👩🧑‍
 - Gabriela Garcia
 - Joel Mendoza
 
