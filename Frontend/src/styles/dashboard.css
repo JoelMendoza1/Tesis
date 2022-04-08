@@ -1,0 +1,23 @@
+.ant-layout dashboard-layout {
+    background-color: white !important;
+    background-size: 100% 100%;
+    background-image: none !important;
+}
+.ant-layout-header dashboard{
+    background-color:#1E1E2F !important;
+}
+
+element.style {
+}
+
+svg:not(:root) {
+    overflow: hidden;
+}
+.anticon svg {
+    font-size: 25px;
+    display: inline-block;
+}
+
+#root{
+    width: 100% !important;
+}

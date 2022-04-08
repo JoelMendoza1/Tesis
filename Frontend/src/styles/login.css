@@ -1,0 +1,22 @@
+
+
+.ant-card-extra a{
+    color: white;
+}
+
+.ant-card-type-inner .ant-card-body {
+    padding: 100px 24px !important;
+
+    text-align: center;
+    margin: 0 auto;
+}
+.ant-card ant-card-bordered ant-card-type-inner{
+    width: 40px;
+}
+.ant-card-body{
+    align-content: center !important;
+    padding-top: 0;
+}
+.ant-form ant-form-horizontal{
+    margin: 0 auto;
+}
