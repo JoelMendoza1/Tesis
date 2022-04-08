@@ -1,8 +1,8 @@
 # ESCUELA POLITECNICA NACIONAL
-## Integrantes: 👦 👦
+## Integrantes: 👩🧑‍
 - Gabriela Garcia
 - Joel Mendoza
 
 ## Documentacion Final 📕
 
-Video Explicativo ⏯️
+## Video Explicativo ⏯️
