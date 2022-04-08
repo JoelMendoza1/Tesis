@@ -6,10 +6,8 @@
 ## Documentacion Final 📕
 - Informe Técnico
 - Manual de Instalación
-- Manual Técnico [here](blob/main/Documentos/Manual%20Técnico-Final%20-%20corregido.pdf)
-
-Fuente: https://www.iteramos.com/pregunta/7094/enlace-relativo-a-github-en-el-archivo-markdown
-- Plan de Tesis
+- Manual Técnico [Aquí](https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Manual-Técnico.pdf)
+- Plan de Tesis [Aquí](https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Plan-Tesis_García-Mendoza.pdf)
 
 ## Video Explicativo ⏯️
 [![Image text](https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Imagenes/Inicio.jpg)](https://www.youtube.com/watch?v=h9XNjsTXc6I&t)
