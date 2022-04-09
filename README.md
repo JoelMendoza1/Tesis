@@ -15,11 +15,11 @@
 
 ## Roles
 
-# Administrador
+# Administrador |
 <img src="https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Imagenes/ADMINISTRADOR.png"  height="170" width="250" >
 
-# Empresa
+# Empresa |
 <img src="https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Imagenes/EMPRESA.png"  height="170" width="250" >
 
-# Pasante
+# Pasante |
 <img src="https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Imagenes/PASANTE.png" height="170" width="250" >
