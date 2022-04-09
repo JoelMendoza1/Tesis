@@ -15,7 +15,7 @@
 
 ## Roles
 
-### Administrador ------------------ Empresa ------------------ Pasante 
+### Administrador ---------------- Empresa ------------------- Pasante 
 <img src="https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Imagenes/ADMINISTRADOR.png"  height="170" width="250" > <img src="https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Imagenes/EMPRESA.png"  height="170" width="250" > <img src="https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Imagenes/PASANTE.png" height="170" width="250" >
 
 
