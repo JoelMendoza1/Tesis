@@ -20,10 +20,10 @@ Administrador | Empresa | Pasante
 <img src="https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Imagenes/ADMINISTRADOR.png"  height="200" width="350" > | <img src="https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Imagenes/EMPRESA.png"  height="200" width="350" > | <img src="https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Imagenes/PASANTE.png" height="200" width="350" >
 Periles | Perfiles | Perfiles 
 ---- | ----- | ------ 
-* Perfil | * Perfil | * Perfil
-* Solicitudes | * Ofertar | * Ofertas
-1. Empresa | * Postulaciones | * Postulaciones
-2. 2. Pasante | * Mi Empresa | * Currículum
+Perfil | Perfil | Perfil
+Solicitudes | Ofertar | Ofertas
+- Empresa | Postulaciones | Postulaciones
+- Pasante | Mi Empresa | Currículum
 
 
 
