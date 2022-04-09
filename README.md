@@ -22,8 +22,8 @@ Periles | Perfiles | Perfiles
 ---- | ----- | ------ 
 Perfil | Perfil | Perfil
 Solicitudes | Ofertar | Ofertas
-- Empresa | Postulaciones | Postulaciones
-- Pasante | Mi Empresa | Currículum
+Empresa | Postulaciones | Postulaciones
+Pasante | Mi Empresa | Currículum
 
 
 
