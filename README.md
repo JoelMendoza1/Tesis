@@ -21,8 +21,8 @@
 **Periles** | **Perfiles** | **Perfiles** 
 Perfil | Perfil | Perfil
 Solicitudes | Ofertar | Ofertas
-1.Empresa | Postulaciones | Postulaciones
-2.Pasante | Mi Empresa | Currículum
+1. Empresa | Postulaciones | Postulaciones
+2. Pasante | Mi Empresa | Currículum
 
 
 
