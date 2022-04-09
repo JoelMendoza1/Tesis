@@ -1,11 +1,11 @@
 # ESCUELA POLITECNICA NACIONAL
 ## Integrantes: 👩🧑‍
-- Gabriela Garcia
+- Gabriela García
 - Joel Mendoza
 
 ## Documentacion Final 📕
-- Informe Técnico
-- Manual de Instalación
+- Informe Técnico [Aquí](https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Informe-Técnico.pdf)
+- Manual de Instalación [Aquí](https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Manual_Instalación.pdf)
 - Manual Técnico [Aquí](https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Manual-Técnico.pdf)
 - Plan de Tesis [Aquí](https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Plan-Tesis_García-Mendoza.pdf)
 
