@@ -15,10 +15,10 @@
 
 ## Roles
 
-Administrador | Empresa | Pasante 
+**Administrador** | **Empresa** | **Pasante** 
 ---- | ----- | ------ 
 <img src="https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Imagenes/ADMINISTRADOR.png"  height="200" width="350" > | <img src="https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Imagenes/EMPRESA.png"  height="200" width="350" > | <img src="https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Imagenes/PASANTE.png" height="200" width="350" >
-Periles | Perfiles | Perfiles 
+**Periles** | **Perfiles** | **Perfiles** 
 ---- | ----- | ------ 
 Perfil | Perfil | Perfil
 Solicitudes | Ofertar | Ofertas
