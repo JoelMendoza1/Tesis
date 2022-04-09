@@ -14,10 +14,10 @@
 
 ## Roles
 - Administrador
-![Image text](https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Imagenes/ADMINISTRADOR.png {width=150px height=100px})
+![Image text](https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Imagenes/ADMINISTRADOR.png )
 
 - Empresa
-![Image text](https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Imagenes/EMPRESA.png {width=150px height=100px})
+![Image text](https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Imagenes/EMPRESA.png)
 
 - Pasante
-![Image text](https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Imagenes/PASANTE.png {width=150px height=100px})
+![Image text](https://github.com/JoelMendoza1/Tesis/blob/main/Documentos/Imagenes/PASANTE.png )
